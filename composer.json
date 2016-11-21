@@ -1,0 +1,13 @@
+{
+    "name": "xiaozan/rsa",
+    "description": "Simple Rsa Util",
+    "type": "util",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaozan",
+            "email": "i@xiaozan.me"
+        }
+    ],
+    "require": {}
+}
